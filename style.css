@@ -1,5 +1,6 @@
 @import url("../mobile-first/styles/header.css");
 @import url("../mobile-first/styles/banner.css");
+@import url("../mobile-first/styles/carrossel.css");
 
 :root{
     --cor-de-fundo: #EBECEE;
