@@ -1,9 +1,9 @@
-@import url("../mobile-first/styles/header.css");
-@import url("../mobile-first/styles/banner.css");
-@import url("../mobile-first/styles/carrossel.css");
-@import url("../mobile-first/styles/topicos.css");
-@import url("../mobile-first/styles/contato.css");
-@import url("../mobile-first/styles/rodape.css");
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodape.css");
 
 :root{
     --cor-de-fundo: #EBECEE;
@@ -12,6 +12,10 @@
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
+    --fonte-secundária: "Josefin Sans";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body{
